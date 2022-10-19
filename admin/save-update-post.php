@@ -3,7 +3,7 @@
 
   //image upload checking--------------------------------
   if (empty($_FILES['new_image']['name'])) {
-  	$file_name = $_POST['old_image'];
+  	$filename = $_POST['old_image'];
   }else{
   	//image upload-------
   	$errors = array();
