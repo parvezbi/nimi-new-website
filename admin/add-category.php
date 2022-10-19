@@ -25,7 +25,7 @@
       <div class="container">
           <div class="row">
               <div class="col-md-12">
-                  <h1 class="admin-heading">Add New Category</h1>
+                  <h1 class="admin-heading" style="text-align: center;">Add New Category</h1>
               </div>
               <div class="col-md-offset-3 col-md-6">
                   <!-- Form Start -->
